@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/boocks
+Content-Type: application/json
+
+{
+    "NameBoock":"Program",
+    "NameAfter":"Ivan Petrovich",
+    "NumOfPages":100,
+    "Description":"This book will help you understand programming, even if you have never done it before."
+}
